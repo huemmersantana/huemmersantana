@@ -7,7 +7,8 @@
 - 🔭 **Atualmente focado em:** Desenvolvimento da **Central TELEBA** (ITSM & Gestão de Vulnerabilidades) e consolidação de arquiteturas **Ceph/Proxmox** para alta disponibilidade.
 - 🌱 **Aprofundamentos:** Engenharia de Dados com **Ontologia de Grafos** (Projeto Atlas do Pensamento) e trilhas avançadas de **Defesa Cibernética**.
 - 👯 **Busco colaborar em:** Projetos voltados para automação de infraestrutura (IaC), hardening de sistemas e soluções open-source de segurança e governança.
-- 💬 **Me pergunte sobre:** - Virtualização e Storage (**Proxmox VE, ZFS, Ceph**)
+- 💬 **Me pergunte sobre:**
+  - Virtualização e Storage (**Proxmox VE, ZFS, Ceph**)
   - Arquitetura de Redes & Backbones (**Omada, Fortinet, Mikrotik**)
   - Gestão de Identidade (**Active Directory Modernization**)
   - Resposta a Incidentes e Forense Digital (**DFIR**)
