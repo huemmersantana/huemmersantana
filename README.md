@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, mundo! 👋
 
-<!--
-**huemmersantana/huemmersantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Huemmer da Silva Santana**, Diretor de TI & Segurança Cibernética na **TELEBA**.  
+Atuo na liderança de **infraestrutura crítica, redes e cibersegurança**, com foco em **resiliência operacional, redução de risco e padronização** em ambientes **MSP/MSSP**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente estou trabalhando em **modernização de infraestrutura e segurança**, com governança, observabilidade e continuidade operacional
+- 🌱 Atualmente estou estudando **Defesa Cibernética**, **Pentest Profissional** e **trilhas avançadas de segurança aplicada**
+- 👯 Busco colaborar em **projetos open-source** voltados para segurança, automação e governança de ambientes
+- 🤔 Tenho interesse em trocar experiências sobre **arquiteturas escaláveis** para operação MSSP e integrações de ferramentas de segurança
+- 💬 Me pergunte sobre **Proxmox / Ceph / ZFS**, **VyOS**, segmentação de rede, hardening, troubleshooting em produção e DFIR
+- 📫 Como falar comigo: **huemmer.santana@teleba.com.br**
+- ⚡ Curiosidade: eu prefiro **simplicidade bem executada** e operação previsível — “heroísmo técnico” não escala 😄
