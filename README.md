@@ -1,6 +1,7 @@
 # Olá! Sou Huemmer Santana 👋
 
-**Diretor de TI & Segurança Cibernética na TELEBA** Arquiteto de infraestrutura com mais de 12 anos de experiência, focado em transformar complexidade técnica em resiliência de negócios. Atuo na liderança de infraestrutura crítica, redes e cibersegurança, com foco em resiliência operacional e padronização em ambientes **MSP/MSSP**.
+**Diretor de TI & Segurança Cibernética na TELEBA** 
+Arquiteto de infraestrutura com mais de 12 anos de experiência, focado em transformar complexidade técnica em resiliência de negócios. Atuo na liderança de infraestrutura crítica, redes e cibersegurança, com foco em resiliência operacional e padronização em ambientes **MSP/MSSP**.
 
 ---
 
