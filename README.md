@@ -1,32 +1,31 @@
-# Olá! Sou Huemmer Santana 👋
+# Hi, I'm Huemmer Santana 👋
 
-**Diretor de TI & Segurança Cibernética na TELEBA** 
-Arquiteto de infraestrutura com mais de 12 anos de experiência, focado em transformar complexidade técnica em resiliência de negócios. Atuo na liderança de infraestrutura crítica, redes e cibersegurança, com foco em resiliência operacional e padronização em ambientes **MSP/MSSP**.
+**Cybersecurity & Infrastructure | Automation | Open Source**
 
----
+I work with IT infrastructure and cybersecurity, focusing on building secure, reliable, and maintainable environments. My interests span Linux, networking, virtualization, observability, and automation, particularly in MSP/MSSP operations.
 
-- 🔭 **Atualmente focado em:** Desenvolvimento da **Central TELEBA** (ITSM & Gestão de Vulnerabilidades) e consolidação de arquiteturas **Ceph/Proxmox** para alta disponibilidade.
-- 🌱 **Aprofundamentos:** Engenharia de Dados com **Ontologia de Grafos** (Projeto Atlas do Pensamento) e trilhas avançadas de **Defesa Cibernética**.
-- 👯 **Busco colaborar em:** Projetos voltados para automação de infraestrutura (IaC), hardening de sistemas e soluções open-source de segurança e governança.
-- 💬 **Me pergunte sobre:**
-  - Virtualização e Storage (**Proxmox VE, ZFS, Ceph**)
-  - Arquitetura de Redes & Backbones (**Omada, Fortinet, Mikrotik**)
-  - Gestão de Identidade (**Active Directory Modernization**)
-  - Resposta a Incidentes e Forense Digital (**DFIR**)
-- 🤔 **Interesse:** Trocar experiências sobre arquiteturas escaláveis para operação MSSP e a aplicação de **Higiene Epistemológica** em análises técnicas.
-- ⚡ **Curiosidade:** Defendo que a **"simplicidade bem executada"** é o nível mais alto da sofisticação técnica. O heroísmo técnico não escala.
+## 🔭 What I'm Working On
 
----
+- **IT Operations:** Improving ITSM workflows, infrastructure monitoring, and vulnerability management.
+- **Resilient Infrastructure:** Exploring virtualization, storage, and high availability with Proxmox VE, Ceph, and ZFS.
+- **Automation & Security:** Building practical tools for infrastructure automation, system hardening, and operational security.
+- **Knowledge Engineering:** Exploring graph ontologies and ways to structure, connect, and reason about complex information.
 
-### 🛠️ Tecnologias & Ecossistemas
+## 🛠️ Technical Interests
 
-* **Infraestrutura:** Linux (Expert), Windows Server (2012-2025), Proxmox VE, Ceph, ZFS.
-* **Redes & Segurança:** Firewalls autorais, Fortinet, VPNs, SOC/NOC, ISO 27001.
-* **Dev & Data:** .NET, Graph Ontology, Automação de Processos.
-* **Governança:** Frameworks MSP/MSSP, Accountability Radical e Gestão de Vulnerabilidades.
+- **Infrastructure:** Linux, Windows Server, Proxmox VE, Ceph, and ZFS.
+- **Networking & Security:** Network architecture, firewalls, VPNs, monitoring, and incident response.
+- **Automation & Development:** Infrastructure as Code (IaC), scripting, process automation, and open-source tools.
+- **Security Operations:** Vulnerability management, SOC/NOC, and security governance.
 
----
+## 🧠 How I Approach Technology
 
-### 📬 Conecte-se
-- **Email:** [huemmer.santana@teleba.com.br](mailto:huemmer.santana@teleba.com.br)
-- **LinkedIn:** [linkedin.com/in/huemmersantana](https://linkedin.com/in/huemmersantana)
+I believe simplicity, when well executed, is a form of technical sophistication.
+
+I enjoy understanding systems from first principles, questioning assumptions, and turning complex problems into practical, verifiable solutions. I'm also interested in knowledge representation, critical thinking, and the relationship between technology and human reasoning.
+
+## 🤝 Open to Collaboration
+
+I'm interested in collaborating on projects involving infrastructure automation, cybersecurity, open-source tools, observability, and resilient systems.
+
+Feel free to explore my repositories or connect with me on LinkedIn.
